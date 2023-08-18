@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Achaljs
-- 👀 I’m interested in computer science
-- 🌱 I’m currently learning python
+- 👀 I’m interested in Android Development
+- 🌱 I’m currently learning kotlin
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me skj7228327@gmail.com
 

@@ -19,6 +19,7 @@
 ## 🔥 Achievements
 
 - Google Cloud Ready Facilitator Program 2022 participant 🏆
+- Completed Google IT Automation With Python Specialization in 2022
 
 ## 📚 Learning Journey
 
